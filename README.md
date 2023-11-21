@@ -2,7 +2,7 @@
 # Secure Document Handler
 <br>
 <br>
-[![Watch the video]()](https://youtu.be/-YiAiRWKGjU)
+
 [![IMAGE ALT TEXT HERE](Placeholder.png)](https://www.youtube.com/watch?v=-YiAiRWKGjU) 
 <br>
 <br>
