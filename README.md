@@ -2,8 +2,7 @@
 # Secure Document Handler
 <br>
 <br>
-[![Video Thumbnail](Placeholder.png)](https://youtu.be/-YiAiRWKGjU)
-
+[![Watch the video](Placeholder.png)](https://youtu.be/-YiAiRWKGjU)
 <br>
 <br>
 
