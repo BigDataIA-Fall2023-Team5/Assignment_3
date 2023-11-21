@@ -1,5 +1,14 @@
 
 # Secure Document Handler
+<br>
+<br>
+[![Watch the video](https://github.com/BigDataIA-Fall2023-Team5/Assignment_3/blob/main/Placeholder.png)](https://youtu.be/-YiAiRWKGjU)
+
+<br>
+<br>
+
+
+
 ## Assignment 3
 Streamlit App link: 
 <br>
